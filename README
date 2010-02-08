@@ -1,0 +1,1 @@
+This simple Python script will convert the hideous Excel HTML export that SAP generates into nicer and more compact CSV. It worked for me!
